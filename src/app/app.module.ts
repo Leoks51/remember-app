@@ -14,6 +14,7 @@ import { AppComponent } from './app.component';
     BrowserModule,
     AppRoutingModule,
     NbThemeModule.forRoot(),
+
   ],
   providers: [],
   bootstrap: [AppComponent]
