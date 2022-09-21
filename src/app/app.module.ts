@@ -18,11 +18,6 @@ import { HeaderComponent } from './components/header/header.component';
     BrowserModule,
     AppRoutingModule,
     NbThemeModule.forRoot(),
-    NbLayoutModule,
-    NbSidebarModule.forRoot(),
-    NbButtonModule,
-    NbEvaIconsModule,
-    NbIconModule,
   ],
   providers: [],
   bootstrap: [AppComponent]
